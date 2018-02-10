@@ -9,10 +9,15 @@ Washington's [iSchool](https://ischool.uw.edu/).
 ## Team Members
 
  Jonathan Callahan -- advisor
+
  Abhinav Garg -- student
+ 
  Avanti Chande -- student
+ 
  Jay Chauhan -- student
+ 
  Kushal Shah -- student
+ 
  Mohit Patel -- student
 
 ## Databrowser Background
